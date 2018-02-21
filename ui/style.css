@@ -8,8 +8,16 @@ body {
     text-align: center;
 }
 
+.left {
+    text-align:left;
+}
+
 .text-big {
     font-size: 300%;
+}
+
+.text-medium {
+    font-size: 75%;
 }
 
 .bold {
