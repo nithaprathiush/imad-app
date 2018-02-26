@@ -28,3 +28,13 @@ body {
     height: 200px;
 }
 
+.container{
+     max-width:800px;
+                margin:0 Auto;
+                color:#969393;
+                font-family:sans-serif;
+                padding-top:10;
+                padding-left:20;
+                padding-right:30;                
+            }
+
